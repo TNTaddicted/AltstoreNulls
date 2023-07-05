@@ -1,0 +1,20 @@
+    "name": "Null’s Brawl",
+    "identifier": "com.nullsbrawl.altstore",
+    "apps": [
+        {
+            "bundleIdentifier": "com.nullsbrawl.client",
+            "developerName": "TNT_addict",
+            "downloadURL": "dnull.xyz/latest_bs_i",
+            "iconURL": "https:\/\/pokemmo.com\/build\/images\/altstore.ba9b8a4e.png",
+            "localizedDescription": "Null’s Brawl is a private Brawl Stars server.",
+            "name": "Null’s Brawl",
+            "screenshotURLs": [
+                ""
+            ],
+            "size": 93158829,
+            "tintColor": "73ACE2",
+            "version": "Latest",
+            "versionDate": "Latest"
+        }
+    ]
+}
