@@ -1,20 +1,25 @@
-    "name": "Null’s Brawl",
-    "identifier": "com.nullsbrawl.altstore",
+{
+    "name": "Null's Brawl Repo",
+    "identifier": "com.tntaddicted.nullsbrawl",
     "apps": [
         {
-            "bundleIdentifier": "com.nullsbrawl.client",
-            "developerName": "TNT_addict",
-            "downloadURL": "dnull.xyz/latest_bs_i",
-            "iconURL": "https:\/\/pokemmo.com\/build\/images\/altstore.ba9b8a4e.png",
-            "localizedDescription": "Null’s Brawl is a private Brawl Stars server.",
-            "name": "Null’s Brawl",
-            "screenshotURLs": [
-                ""
-            ],
-            "size": 93158829,
-            "tintColor": "73ACE2",
-            "version": "Latest",
-            "versionDate": "Latest"
+            "name": "Null's Brawl",
+            "bundleIdentifier": "com.nulls.brawl",
+            "developerName": "Null's Team",
+            "version": "latest",
+            "versionDate": "2025-01-01",
+            "versionDescription": "Get the latest version of Null's Brawl with custom features.",
+            "downloadURL": "https://nulls.ios.so/bs_latest_i",
+            "iconURL": "https://raw.githubusercontent.com/TNTaddicted/AltstoreNulls/refs/heads/main/IMG_2004.jpeg",
+            "tintColor": "#FF0000"
+        }
+    ],
+    "news": [
+        {
+            "title": "Welcome to Null's Brawl Repo!",
+            "identifier": "news1",
+            "date": "2025-01-01",
+            "content": "Download the latest version of Null's Brawl and stay updated with new features."
         }
     ]
 }
