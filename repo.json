@@ -1,6 +1,6 @@
 {
-    "name": "Null's Brawl Repo",
-    "identifier": "com.tntaddicted.nullsbrawl",
+    "name": "TNT Repo",
+    "identifier": "com.tntaddicted.randomrepo",
     "apps": [
         {
             "name": "Null's Brawl",
