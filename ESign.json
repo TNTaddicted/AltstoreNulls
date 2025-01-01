@@ -1,0 +1,25 @@
+{
+    "name": "Null's Brawl Repo",
+    "identifier": "com.tntaddicted.nullsbrawl",
+    "apps": [
+        {
+            "name": "Null's Brawl",
+            "bundleIdentifier": "com.nulls.brawl",
+            "developerName": "Null's Team",
+            "version": "latest",
+            "versionDate": "2025-01-01",
+            "versionDescription": "Get the latest version of Null's Brawl with custom features.",
+            "downloadURL": "https://dwn1.nulls.ee/unsign/NullsBrawl_59.197_iOS.ipa",
+            "iconURL": "https://raw.githubusercontent.com/TNTaddicted/AltstoreNulls/refs/heads/main/IMG_2004.jpeg",
+            "tintColor": "#FF0000"
+        }
+    ],
+    "news": [
+        {
+            "title": "Welcome to Null's Brawl Repo!",
+            "identifier": "news1",
+            "date": "2025-01-01",
+            "content": "Download the latest version of Null's Brawl and stay updated with new features."
+        }
+    ]
+}
